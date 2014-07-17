@@ -14,7 +14,7 @@ to X with job title Y"
 
 This project took about 3 horus to complete.
 
-Example Usade:
+Example Usage:
 
 
 	$ python query_employees.py
@@ -49,3 +49,12 @@ Example Usade:
 	|        Austin        |        Steve         |   Python Developer   |       employee       |      sa@vf.com       |    Oscar Goldman     |      3121230810      |
 	Would you like to query on these results? (yes/no)
 	> no
+	
+Nosetests:
+
+	$ nosetests
+	....
+	----------------------------------------------------------------------
+	Ran 4 tests in 0.009s
+	
+	OK
