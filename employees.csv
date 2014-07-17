@@ -1,0 +1,10 @@
+Goldman,Oscar,Software Architect,manager,og@vf.com
+Austin,Steve,Python Developer,employee,email=sa@vf.com,reports_to=Oscar Goldman;phone=3121230810
+Wells,Rudy,Admin Assistant,employee,rw@vf.com,reports_to=Oliver Spencer
+Timberlake,Dee,Python Developer,employee,dt@vf.com,reports_to=Oscar Goldman
+Sommers,Jamie,Project Manager,manager,js@vf.com,reports_to=Oliver Spencer;phone=7735550818
+Spencer,Oliver,CEO,manager,so@vf.com
+Marchetti,Michael,Graphic Designer,employee,mm@vf.com,reports_to=Jamie Sommers
+Williams,Chris,UX Specialist,employee,cw@vf.com,reports_to=Jamie Sommers
+Elgin,Helen,QA Engineer,employee,he@vf.com,reports_to=Jamie Sommers
+Starkey,Jack,Legal Counsel,employee,js@vf.com
